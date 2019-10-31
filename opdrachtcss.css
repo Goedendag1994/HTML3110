@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.pbackground{
+    background-color: blue;
+}
+button{
+    cursor:pointer;
+}
+.groen{ 
+    background-color: rgb(12, 59, 12);
+}
+.header{
+    color:white;
+    background-color: lightcoral;
+    text-align: center;
+    padding: 23px;
+}
+nav{
+
+}
+title{
+    text-decoration-color: white;
+    
+}
